@@ -1,0 +1,39 @@
+k-means trial 1, withinss: 101.5728
+k-means trial 2, withinss: 102.4196
+k-means trial 3, withinss: 125.6666
+k-means trial 4, withinss: 101.5728
+k-means trial 5, withinss: 102.4196
+k-means trial 6, withinss: 125.4559
+k-means trial 7, withinss: 125.4417
+k-means trial 8, withinss: 101.5728
+k-means trial 9, withinss: 101.5728
+k-means trial 10, withinss: 125.5959
+k-means trial 11, withinss: 125.5959
+k-means trial 12, withinss: 125.6666
+k-means trial 13, withinss: 101.5728
+k-means trial 14, withinss: 101.5728
+k-means trial 15, withinss: 101.5728
+k-means trial 16, withinss: 102.4196
+k-means trial 17, withinss: 102.4196
+k-means trial 18, withinss: 125.5959
+k-means trial 19, withinss: 125.5959
+k-means trial 20, withinss: 102.4196
+k-means trial 21, withinss: 102.4196
+k-means trial 22, withinss: 101.5728
+k-means trial 23, withinss: 101.5728
+k-means trial 24, withinss: 101.5728
+k-means trial 25, withinss: 101.5728
+k-means trial 26, withinss: 102.4196
+k-means trial 27, withinss: 101.5728
+k-means trial 28, withinss: 125.4417
+k-means trial 29, withinss: 102.4196
+k-means trial 30, withinss: 125.1400
+Trial with minimum withinss: 9
+Average number of iterations: 100.0
+centroid0	5.01 3.42 1.46 0.24 
+centroid1	6.54 2.96 5.50 1.99 
+centroid2	5.94 2.76 4.21 1.30 
+=============
+SSE: 101.57278954
+[[50, 0, 0], [0, 4, 50], [0, 46, 0]]
+Accuracy: 0.973333

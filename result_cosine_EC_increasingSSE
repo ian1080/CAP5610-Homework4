@@ -1,0 +1,69 @@
+k-means trial 1, Number of iterations required: 4
+withinss: 101.5728
+k-means trial 2, Number of iterations required: 4
+withinss: 102.4196
+k-means trial 3, Number of iterations required: 3
+withinss: 126.0082
+k-means trial 4, Number of iterations required: 4
+withinss: 101.5728
+k-means trial 5, Number of iterations required: 9
+withinss: 101.5728
+k-means trial 6, Number of iterations required: 4
+withinss: 101.5728
+k-means trial 7, Number of iterations required: 6
+withinss: 101.5728
+k-means trial 8, Number of iterations required: 7
+withinss: 101.5728
+k-means trial 9, Number of iterations required: 6
+withinss: 125.5959
+k-means trial 10, Number of iterations required: 8
+withinss: 101.5728
+k-means trial 11, Number of iterations required: 5
+withinss: 102.4196
+k-means trial 12, Number of iterations required: 4
+withinss: 101.5728
+k-means trial 13, Number of iterations required: 2
+withinss: 101.5728
+k-means trial 14, Number of iterations required: 4
+withinss: 101.5728
+k-means trial 15, Number of iterations required: 5
+withinss: 102.4196
+k-means trial 16, Number of iterations required: 4
+withinss: 102.4196
+k-means trial 17, Number of iterations required: 4
+withinss: 102.4196
+k-means trial 18, Number of iterations required: 6
+withinss: 102.4196
+k-means trial 19, Number of iterations required: 5
+withinss: 102.4196
+k-means trial 20, Number of iterations required: 6
+withinss: 101.5728
+k-means trial 21, Number of iterations required: 5
+withinss: 101.5728
+k-means trial 22, Number of iterations required: 4
+withinss: 101.5728
+k-means trial 23, Number of iterations required: 3
+withinss: 102.4196
+k-means trial 24, Number of iterations required: 3
+withinss: 124.8410
+k-means trial 25, Number of iterations required: 4
+withinss: 102.4196
+k-means trial 26, Number of iterations required: 4
+withinss: 125.5959
+k-means trial 27, Number of iterations required: 7
+withinss: 125.9898
+k-means trial 28, Number of iterations required: 5
+withinss: 101.5728
+k-means trial 29, Number of iterations required: 3
+withinss: 102.4196
+k-means trial 30, Number of iterations required: 4
+withinss: 101.5728
+Trial with minimum withinss: 4
+Average number of iterations: 4.73333333333
+centroid0	5.01 3.42 1.46 0.24 
+centroid1	6.54 2.96 5.50 1.99 
+centroid2	5.94 2.76 4.21 1.30 
+=============
+SSE: 101.57278954
+[[50, 0, 0], [0, 4, 50], [0, 46, 0]]
+Accuracy: 0.973333
